@@ -1,4 +1,4 @@
-![LittleBread69's Github Stats](https://github-readme-stats.vercel.app/api?username=littlebread69&theme=radical&show_icons=true)
+![LittleBread69's Github Stats](https://github-readme-stats.vercel.app/api?username=littlebread69&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!--
 **LittleBread69/LittleBread69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
